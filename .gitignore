@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.history/
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+dist/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.env
+.env.*
+
+# Chrome/Edge extension dev noise
+*.pem
+*.crx
+*.zip
+web-ext-artifacts/
+*.log
+
+# Images/source
+*.orig
