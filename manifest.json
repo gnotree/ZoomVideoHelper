@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Zoom Video Download Helper",
   "version": "1.0",
-  "description": "Adds a 'Download me' link for Zoom videos and restores right-click functionality.",
+  "description": "Adds a 'Download me' link for Zoom videos and restores right-click functionality. Easy to us",
   "icons": {
     "48": "icon.png"
   },
